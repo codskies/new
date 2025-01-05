@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/rig-playgrounds-dark.svg">
@@ -102,3 +103,6 @@ Vector stores are available as separate companion-crates:
 <br>
 <img src="img/built-by-playgrounds.svg" alt="Build by Playgrounds" width="30%">
 </p>
+=======
+# new
+>>>>>>> a8bd8306a0d0f5abd9fb15ac61d01bac0e7c48ad
